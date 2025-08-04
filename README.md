@@ -72,9 +72,12 @@ To train:
 yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=30 imgsz=640
 ```
 
+
+
 To evaluate:
 
 ```bash
 yolo task=detect mode=val model=best.pt data=data.yaml
 ```
 
+<img width="1024" height="1536" alt="flowchart" src="https://github.com/user-attachments/assets/15e095fa-080c-486c-88da-28ad38881fa4" />
