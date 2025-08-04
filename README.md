@@ -80,4 +80,5 @@ To evaluate:
 yolo task=detect mode=val model=best.pt data=data.yaml
 ```
 
-<img width="1024" height="1536" alt="flowchart3" src="https://github.com/user-attachments/assets/026e1b1e-5bc9-4378-8272-793ea32e478a" />
+<img width="655" height="693" alt="flowchart0" src="https://github.com/user-attachments/assets/f46292bf-6dab-4237-ad8a-3bb61823f803" />
+
